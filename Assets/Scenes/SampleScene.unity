@@ -1162,6 +1162,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Collectible (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 641555656025786741, guid: 9473bed1cdf6a824097d6723dc07b8eb, type: 3}
+      propertyPath: m_TagString
+      value: PickUp
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9473bed1cdf6a824097d6723dc07b8eb, type: 3}
 --- !u!1001 &2227089584119949012
@@ -1226,6 +1230,10 @@ PrefabInstance:
     - target: {fileID: 2227089583943610502, guid: 4a444f22d703c3442ae3b4ff6ab0c857, type: 3}
       propertyPath: m_Name
       value: Collectible (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2227089583943610502, guid: 4a444f22d703c3442ae3b4ff6ab0c857, type: 3}
+      propertyPath: m_TagString
+      value: PickUp
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4a444f22d703c3442ae3b4ff6ab0c857, type: 3}
@@ -1292,6 +1300,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Collectible (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 3368272124354095807, guid: 81104b7181950a3448caa860c5984719, type: 3}
+      propertyPath: m_TagString
+      value: PickUp
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 81104b7181950a3448caa860c5984719, type: 3}
 --- !u!1001 &3543567050385671270
@@ -1304,6 +1316,10 @@ PrefabInstance:
     - target: {fileID: 3543567051353880521, guid: c45a3cf11ec02984b959df1353fa726d, type: 3}
       propertyPath: m_Name
       value: Collectible (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3543567051353880521, guid: c45a3cf11ec02984b959df1353fa726d, type: 3}
+      propertyPath: m_TagString
+      value: PickUp
       objectReference: {fileID: 0}
     - target: {fileID: 3543567051353880533, guid: c45a3cf11ec02984b959df1353fa726d, type: 3}
       propertyPath: m_RootOrder
@@ -1370,6 +1386,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Collectible (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 4467336277316690854, guid: a87b767f4aa749e48badd7f5e8ffa31e, type: 3}
+      propertyPath: m_TagString
+      value: PickUp
+      objectReference: {fileID: 0}
     - target: {fileID: 4467336277316690858, guid: a87b767f4aa749e48badd7f5e8ffa31e, type: 3}
       propertyPath: m_RootOrder
       value: 5
@@ -1434,6 +1454,10 @@ PrefabInstance:
     - target: {fileID: 5379836665319598650, guid: ab131b9b28527594287a473caf86dd11, type: 3}
       propertyPath: m_Name
       value: Collectible (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5379836665319598650, guid: ab131b9b28527594287a473caf86dd11, type: 3}
+      propertyPath: m_TagString
+      value: PickUp
       objectReference: {fileID: 0}
     - target: {fileID: 5379836665319642566, guid: ab131b9b28527594287a473caf86dd11, type: 3}
       propertyPath: m_RootOrder
@@ -1552,6 +1576,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Collectible (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 5698582497058957308, guid: 852013a93728f8a42b2fee83de1748c2, type: 3}
+      propertyPath: m_TagString
+      value: PickUp
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 852013a93728f8a42b2fee83de1748c2, type: 3}
 --- !u!1001 &5837398569269388990
@@ -1617,6 +1645,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Collectible (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 5837398569127079886, guid: 930b7bdb218fddc4281e32cc5d3397ed, type: 3}
+      propertyPath: m_TagString
+      value: PickUp
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 930b7bdb218fddc4281e32cc5d3397ed, type: 3}
 --- !u!1001 &7320021534599193848
@@ -1629,6 +1661,10 @@ PrefabInstance:
     - target: {fileID: 7320021533738547090, guid: 2bc480a93bc9d1d4c827e2f610243a69, type: 3}
       propertyPath: m_Name
       value: Collectible (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7320021533738547090, guid: 2bc480a93bc9d1d4c827e2f610243a69, type: 3}
+      propertyPath: m_TagString
+      value: PickUp
       objectReference: {fileID: 0}
     - target: {fileID: 7320021533738547094, guid: 2bc480a93bc9d1d4c827e2f610243a69, type: 3}
       propertyPath: m_RootOrder
@@ -1694,6 +1730,10 @@ PrefabInstance:
     - target: {fileID: 8005792257801896952, guid: b63ccfd77fdd210458c4f3022dacf25d, type: 3}
       propertyPath: m_Name
       value: Collectible (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8005792257801896952, guid: b63ccfd77fdd210458c4f3022dacf25d, type: 3}
+      propertyPath: m_TagString
+      value: PickUp
       objectReference: {fileID: 0}
     - target: {fileID: 8005792257801896956, guid: b63ccfd77fdd210458c4f3022dacf25d, type: 3}
       propertyPath: m_RootOrder
@@ -1812,6 +1852,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Collectible
       objectReference: {fileID: 0}
+    - target: {fileID: 8635366925347917197, guid: d6da1c6af53c83745b5f5d7db1a10196, type: 3}
+      propertyPath: m_TagString
+      value: PickUp
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d6da1c6af53c83745b5f5d7db1a10196, type: 3}
 --- !u!1001 &8895900093973649054
@@ -1876,6 +1920,10 @@ PrefabInstance:
     - target: {fileID: 8895900094441799608, guid: fa654e76345fc3943b0c4ca456394e59, type: 3}
       propertyPath: m_Name
       value: Collectible (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8895900094441799608, guid: fa654e76345fc3943b0c4ca456394e59, type: 3}
+      propertyPath: m_TagString
+      value: PickUp
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fa654e76345fc3943b0c4ca456394e59, type: 3}
