@@ -39,5 +39,10 @@ public class PlayerController : MonoBehaviour
         {
             other.gameObject.SetActive(false);
         }
+
+        if (other.gameObject.CompareTag("Goal"))
+        {
+            other.gameObject.SetActive(false);
+        }
     }
 }
